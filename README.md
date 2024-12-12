@@ -6,7 +6,7 @@ Docker for containerization.
 Setup Instructions:
 
 Clone this repository to your local machine.
-Create a PostgreSQL database named after your own name (e.g., “Abbos”).
+Create a PostgreSQL database named after your own name (e.g., “Shaxzodbek”).
 Insert at least 5 real courses from Webster University’s timetable into the database.
 Customize the HTML header to display your name as the student.
 Build and run the Flask app inside a Docker container using the provided Dockerfile.
